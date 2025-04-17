@@ -1,0 +1,12 @@
+openai~=1.60.2
+ansible-core~=2.17.0
+langchain
+langchain-community
+langchain-openai
+streamlit
+python-dotenv
+faiss-cpu
+sentence-transformers
+pypdf
+pypdf2
+tiktoken
