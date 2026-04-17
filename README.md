@@ -24,7 +24,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that allows you to upload doc
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/harshal1711/RAG-Chat-Assistant.git
+git clone https://github.com/ansh2108/RAG-Chat-Assistant.git
 cd RAG-Chat-Assistant
 ```
 
